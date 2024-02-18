@@ -1,3 +1,7 @@
 .left_top_header .icons i:hover , .nav-link:hover{
     color: red;
 }
+.dropdownx:hover .dropdown-itemx{
+    display: block;
+
+}
